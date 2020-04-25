@@ -1,0 +1,8 @@
+windows:
+  - name: sample-four-panes
+    layout: tiled
+    panes:
+      - echo p1
+      - echo p2
+      - echo p3
+      - echo p4

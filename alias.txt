@@ -1,0 +1,3 @@
+alias vscp=zsh\ path_to/sshpassscp.sh
+alias vssh=zsh\ path_to/sshpass_plat.sh
+alias mvssh=itermocil\ sample 
